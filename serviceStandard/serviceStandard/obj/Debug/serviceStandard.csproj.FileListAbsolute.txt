@@ -1,0 +1,7 @@
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\bin\serviceStandard.dll.config
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\bin\serviceStandard.dll
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\bin\serviceStandard.pdb
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\obj\Debug\serviceStandard.csprojResolveAssemblyReference.cache
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\obj\Debug\serviceStandard.csproj.CoreCompileInputs.cache
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\obj\Debug\serviceStandard.dll
+C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\obj\Debug\serviceStandard.pdb

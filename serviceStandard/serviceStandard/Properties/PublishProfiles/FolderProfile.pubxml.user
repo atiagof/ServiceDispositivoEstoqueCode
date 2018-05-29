@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\alex.ferreira\Source\Repos\serviceStandard\serviceStandard\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/serviceStandard.dll">
+      <publishTime>05/29/2018 14:40:17</publishTime>
+    </File>
+    <File Include="bin/serviceStandard.pdb">
+      <publishTime>05/29/2018 14:40:17</publishTime>
+    </File>
+    <File Include="ServiceEstoqueDaf.svc">
+      <publishTime>05/28/2018 18:13:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2018 14:40:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
